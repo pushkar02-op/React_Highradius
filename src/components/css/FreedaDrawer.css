@@ -1,0 +1,8 @@
+.FreedaDrawer .MuiDrawer-paper {
+  top: 8vh !important;
+  height: 87.5% !important;
+}
+.FreedaDrawer .MuiDrawer-paperAnchorDockedRight {
+  border: none;
+  border-top: 0.13rem solid rgba(252, 117, 0, 0.6) !important;
+}

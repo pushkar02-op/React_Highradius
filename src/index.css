@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+body {
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html {
+  font-size: calc(0.75vh + 0.75vw);
+}
+
+.MuiTab-root {
+  min-width: 16vw !important;
+  min-height: 4.44vh !important;
+}
+.MuiTabs-root {
+  min-height: 4.44vh !important;
+}
+.MuiTab-wrapper {
+  padding: 2%;
+}
+.PrivateTabIndicator-root-17 {
+  height: 0.18vh !important;
+}
+.css-s9yy5i-MuiButtonBase-root-MuiButton-root {
+  min-width: 0px !important;
+}
+.MuiInputBase-input {
+  padding: 0px !important;
+}
+.MuiListItemIcon-root {
+  min-width: 0px !important;
+}
+.MuiListItemText-root {
+  margin: 0px !important;
+}
+.MuiFab-root {
+  min-height: 0px !important;
+}
+.MuiCardContent-root:last-child {
+  padding-bottom: 0px !important;
+}
+.MuiCardContent-root {
+  padding: 0px !important;
+}
+.MuiCardHeader-root {
+  padding: 0.71rem !important;
+}
