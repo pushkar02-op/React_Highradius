@@ -1,4 +1,4 @@
-#[Clicakble Prototype XD](https://xd.adobe.com/view/0eccb9ce-58ee-4487-96cf-16c0e15bc4bf-5b9f/screen/a2953d11-0924-4142-af58-92c3d9ebec04/)
+[Clicakble Prototype XD](https://xd.adobe.com/view/0eccb9ce-58ee-4487-96cf-16c0e15bc4bf-5b9f/screen/a2953d11-0924-4142-af58-92c3d9ebec04/)
 
 # Getting Started with Create React App
 
